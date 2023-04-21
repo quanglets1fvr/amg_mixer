@@ -1,4 +1,4 @@
-# **A-Multi-Axis-Attention-MLP-Mixer-For-Biomedical-Image_Segmentation**
+# **A-Multi-Axis-Attention-MLP-Mixer-For-Biomedical-Image-Segmentation**
 
 ## Datasets
 
@@ -7,6 +7,9 @@
 - Gland Segmentation [Link data](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest)
 
 - ISIC 2018 challenge: 80% for training, 10% for validation, 10% for testing [Link data](https://challenge.isic-archive.com/landing/2018/)
+
+_All images in experiments resized to 256x256_
+
 ## Evaluation Metrics 
 
 To evaluate our model's efficiency, we utilize Dice Coefficient (Dice) and Intersection over Union (IoU), two widely-used metrics for assessing segmentation models, especially in medical image segmentation. These metrics are capable of detecting areas in which the model requires improvement as they are sensitive to both false positive and false negative errors. The formulas for Dice and IoU are shown below:
