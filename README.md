@@ -1,4 +1,4 @@
-# **A-Multi-Axis-Attention-MLP-Mixer-For-Biomedical-Image-Segmentation**
+# [**A-Multi-Axis-Attention-MLP-Mixer-For-Biomedical-Image-Segmentation**](https://link.springer.com/book/9783031368851)
 
 ## Datasets
 
